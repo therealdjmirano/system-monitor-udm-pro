@@ -19,7 +19,7 @@ This is a custom system monitoring script for the Ubiquiti Dream Machine Pro (UD
 2. Run the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Miran20122/system-monitor-udm-pro/refs/heads/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/therealdjmirano/system-monitor-udm-pro/refs/heads/main/install.sh | sh
 ```
 
 ---
@@ -30,7 +30,7 @@ curl -fsSL https://raw.githubusercontent.com/Miran20122/system-monitor-udm-pro/r
 2. Run the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Miran20122/system-monitor-udm-pro/refs/heads/main/uninstall.sh | sh
+curl -fsSL https://raw.githubusercontent.com/therealdjmirano/system-monitor-udm-pro/refs/heads/main/uninstall.sh | sh
 ```
 
 ---
